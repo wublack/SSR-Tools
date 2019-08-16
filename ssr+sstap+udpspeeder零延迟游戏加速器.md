@@ -2,10 +2,10 @@
  * @Author: Wu
  * @Date: 2019-08-16 14:19:27
  * @LastEditors: Wu
- * @LastEditTime: 2019-08-16 15:03:50
+ * @LastEditTime: 2019-08-16 15:14:32
  * @Description: 
  -->
-## 因为最近在玩绝地求生，但是要加速器，游戏98，以后加速器每月都得还贷一样个个要30块，决定自己弄一个加速器，我的steam账号是erhuabushuo0820400，有兴趣一起玩的加我，我很菜，哈哈！
+## 因为最近在玩绝地求生，但是要加速器，游戏98，以后加速器每月都得还贷一样每个月要30块，决定自己弄一个加速器，我的steam账号是erhuabushuo0820400，有兴趣一起玩的加我，我很菜，哈哈！
 ## 第一步
 ### 搭建ssr翻墙梯子 （我使用的是谷歌云的免费服务器debian 9）
 我以前写[教程参考链接](https://note.youdao.com/ynoteshare1/index.html?id=fad0d10e7f7973a91b15bbb29bbdc9fd&type=note)
@@ -40,7 +40,7 @@ nohup ./speederv2 -s -l0.0.0.0:9090 -r127.0.0.1:5656 -f2:4 --mode 0 --timeout 0 
 如何打开端口在搭建ssr教程里有，不赘述！
 
 ## 第三步
-下载我提供的ssr+sstap.zip文件，解压打开start.bat文件，修改成你服务器的IP，端口设置成ssr梯子端口，保存双击运行就好了，记得关掉杀毒软件。
+下载我提供的[ssr+sstap.zip](https://github.com/wublack/SSR-Tools/raw/master/ssr%2Bsstap.zip)文件，解压打开start.bat文件，修改成你服务器的IP，端口设置成ssr梯子端口，保存双击运行就好了，记得关掉杀毒软件。
 
 ## 第四步
 1、添加ssr节点，服务器ip设置成：127.0.0.1
