@@ -2,7 +2,7 @@
  * @Author: Wu
  * @Date: 2019-08-16 14:19:27
  * @LastEditors: Wu
- * @LastEditTime: 2019-08-16 15:24:23
+ * @LastEditTime: 2019-08-16 15:28:59
  * @Description: 
  -->
 ## 因为最近在玩绝地求生，但是要加速器，游戏98，以后加速器每月都得还贷一样每个月要30块，决定自己弄一个加速器，我的steam账号是erhuabushuo0820400，有兴趣一起玩的加我，我很菜，哈哈！
@@ -55,5 +55,5 @@ nohup ./speederv2 -s -l0.0.0.0:9090 -r127.0.0.1:5656 -f2:4 --mode 0 --timeout 0 
 
 ## 最后
 点击代理选择框右侧的闪电图标测试。1ms延迟！
-!(image)(https://www.atrandys.com/wp-content/uploads/2018/09/sstappeizhi3.png)
+!(image)(https://github.com/wublack/SSR-Tools/raw/master/images/ssr_sstap_result.PNG)
 
