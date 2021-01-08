@@ -16,7 +16,4 @@ Share SSR tools (分享一些工具方便自己用)
 
 #### 且用且珍惜 ####
 
-## PanDownload_v2.1.0.zip 
-此乃百度网盘下载神器也！速度杠杠的
-
-## 现在用微牛开户随机送5股价值50-1000美金 [微牛开户链接](https://act.webullzone.com/free-stocks/cn/deposit-3.html?inviteCode=DmkqLBklvdB4&source=reach_295_A1_push)
+## 现在用微牛开户随机送5股价值50-1000美金的股票 [微牛开户链接](https://act.webullzone.com/free-stocks/cn/deposit-3.html?inviteCode=DmkqLBklvdB4&source=reach_295_A1_push)
