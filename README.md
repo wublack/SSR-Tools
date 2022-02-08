@@ -15,5 +15,3 @@ Share SSR tools (分享一些工具方便自己用)
 在苹果商店下载[免费梯子Potatso Lite](https://apps.apple.com/us/app/potatso-lite/id1239860606) 或者搜shadowsocket小火箭
 
 #### 且用且珍惜 ####
-
-## 现在用微牛开户随机送5股价值50-1000美金的股票 [微牛开户链接](https://act.webullzone.com/free-stocks/cn/deposit-3.html?inviteCode=DmkqLBklvdB4&source=reach_295_A1_push)
